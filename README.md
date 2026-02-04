@@ -14,5 +14,3 @@ Each script or project is maintained on its own Git branch. To find a specific s
   # or
   git switch <branch-name>
   ```
-
-If you need help locating a particular script, tell me the script name or purpose and I can search the branches for you.
